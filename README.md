@@ -1,10 +1,11 @@
-# workout_app
+# Kinetic App
 
-A new Flutter project.
+Kinetic App is a workout app, related to Exccersies with respect to different categories. 
+Built with Flutter with Provider as state management, while utilizing the MVVM architecture and Firebase/Supabase as BaaS and Database.  
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Kinetic application.
 
 A few resources to get you started if this is your first Flutter project:
 
